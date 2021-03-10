@@ -1,3 +1,3 @@
-module github.com/sihkhar0507/requestJSON
+module requestJSON
 
 go 1.16
